@@ -1,0 +1,39 @@
+nz-divider {
+    color: #333;
+    
+  }
+  .inner-box {
+    background: white;
+    padding: 8px 0;
+    text-align: center;
+  }
+  [nz-button-1] {
+    margin-right: 8px;
+    margin-bottom: 12px;
+    background-color: tomato;
+  }
+  .link-top {
+    width: 90%;
+    height: 1px;
+    border-top: solid #ACC0D8 1px;
+    text-align: center;
+}
+.center{
+  display:table;
+  margin:0 auto;
+  border:1px solid red;
+}
+.search{
+  font-size: 15px;
+  text-align: center;
+  margin-top:5px;
+}
+  [nz-button-2] {
+    margin-right: 8px;
+    margin-bottom: 12px;
+    background-color: skyblue;
+  }
+  .input-box{
+    height: 10px;
+    width: 50px;
+  }
